@@ -18,10 +18,21 @@ p {
     font-size: 18px;
 }
 .imagensformat {
-    vertical-align: middle;
-    border-radius: 10%;
-    padding: 15px 60px;
+    border-radius: 4px;
+    padding: 15px 400px;
+    background-color:darkslategray;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.imagensformatbike {
+    border-radius: 100%;
+    /* padding: 15px 60px; */
     background-color: burlywood;
+/*     margin-left: auto;
+    margin-right: auto;
+    display: block; */
+    
 }
 .botaolink {
     background-color:white;
