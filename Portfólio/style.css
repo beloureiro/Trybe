@@ -1,0 +1,33 @@
+#center {
+    text-align: center;
+    align-items: center;
+}
+h2 {
+    background-color: lightgrey;
+    color: black;
+}
+body {
+    background-color: black;
+    color: white;
+} 
+#cliqueaqui {
+    color: yellow;
+}
+p {
+    font-family: monospace;
+    font-size: 18px;
+}
+.imagensformat {
+    vertical-align: middle;
+    border-radius: 10%;
+    padding: 15px 60px;
+    background-color: burlywood;
+}
+.botaolink {
+    background-color:white;
+    border-radius: 4px;
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
